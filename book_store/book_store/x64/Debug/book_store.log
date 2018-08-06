@@ -1,0 +1,27 @@
+﻿  actions.cpp
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(92): warning C4129: 'C': unrecognized character escape sequence
+  db.cpp
+c:\users\eldar\desktop\bookstore\book_store\book_store\db.cpp(19): warning C4101: 'e': unreferenced local variable
+  main.cpp
+  Generating Code...
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(105): warning C4715: 'showCustomers': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(77): warning C4715: 'showOrders': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(48): warning C4715: 'showBooks': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(133): warning C4715: 'showSuppliers': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(195): warning C4715: 'showBooksOnSale': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(227): warning C4715: 'searchBook': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(264): warning C4715: 'showSuppliersOfBook': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(167): warning C4715: 'showPurchases': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(337): warning C4715: 'booksPurchased': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(303): warning C4715: 'booksSold': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(383): warning C4715: 'mostPurchasesCustomer': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(427): warning C4715: 'mostOrdersSuplier': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(461): warning C4715: 'ordersMade': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(495): warning C4715: 'ordersMadePurchases': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(532): warning C4715: 'totalDiscountCustomer': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(642): warning C4715: 'customersAdded': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(676): warning C4715: 'totalPaidSupplier': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(608): warning C4715: 'sumRevenue': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(713): warning C4715: 'totalSoldSeller': not all control paths return a value
+c:\users\eldar\desktop\bookstore\book_store\book_store\actions.cpp(756): warning C4715: 'top10Books': not all control paths return a value
+  book_store.vcxproj -> C:\Users\Eldar\Desktop\bookstore\book_store\x64\Debug\book_store.exe

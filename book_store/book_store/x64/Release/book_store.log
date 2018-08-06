@@ -1,0 +1,6 @@
+﻿  actions.cpp
+c:\users\eldar\desktop\bookstore\book_store\book_store\db.h(4): fatal error C1083: Cannot open include file: 'mysql_connection.h': No such file or directory
+  db.cpp
+c:\users\eldar\desktop\bookstore\book_store\book_store\db.h(4): fatal error C1083: Cannot open include file: 'mysql_connection.h': No such file or directory
+  main.cpp
+c:\users\eldar\desktop\bookstore\book_store\book_store\main.cpp(3): fatal error C1083: Cannot open include file: 'mysql_connection.h': No such file or directory
